@@ -1,5 +1,5 @@
 /*global app, $on */
-(fnction () {
+(function () {
 	'use strict';
 
 	/**
